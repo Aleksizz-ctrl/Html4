@@ -1,7 +1,7 @@
 # Assignment 4. Forms and Validation
 
-Student: Your Name
-Group: Your Group
+Student: Borovikov Vyacheslav
+Group:SE-2528
 
 ## Description
 Website with HTML forms, HTML5 validation and Bootstrap form validation.
